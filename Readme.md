@@ -1,4 +1,4 @@
-![Cosina logo](cosinagames.github.io/Images/logo_prototype_black.png)
+![Cosina logo](https://cosinagames.github.io/Images/logo_prototype_black.png)
 
 
 Welcome to Cosina Games's publish site.  
