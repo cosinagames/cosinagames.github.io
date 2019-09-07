@@ -2,16 +2,30 @@
    "datas":[
       {
         "id": 0,
-        "url": "https://play.google.com/store/apps/details?id=com.gg.solitaire.freecell",
-        "icon": "https://txbac98.github.io/Image/NewGame/FreeCell.png",
-        "title": "FreeCell",
+        "url": "https://play.google.com/store/apps/details?id=com.gg.billiards.ballpool",
+        "icon": "https://cosinagames.github.io/cosinas/icons/8ballpool.png",
+        "title": "8 Ball",
         "reward" :  100
       },
       {
         "id": 1,
+        "url": "https://play.google.com/store/apps/details?id=gg.Solitaire.FreeCell.FreeCardGames",
+        "icon": "https://cosinagames.github.io/cosinas/icons/freecell_free.png",
+        "title": "Freecell",
+        "reward" :  200
+      },
+      {
+        "id": 2,
         "url": "https://play.google.com/store/apps/details?id=com.gg.solitaire.freecell",
-        "icon": "https://txbac98.github.io/Image/NewGame/FreeCell.png",
-        "title": "Cosina",
+        "icon": "https://cosinagames.github.io/cosinas/icons/freecell_no_ads.png",
+        "title": "Freecell",
+        "reward" :  200
+      },
+      {
+        "id": 3,
+        "url": "https://play.google.com/store/apps/details?id=gg.casino.poker.pokeroffline",
+        "icon": "https://cosinagames.github.io/cosinas/icons/poker_offline.png",
+        "title": "Poker",
         "reward" :  200
       }
    ]
