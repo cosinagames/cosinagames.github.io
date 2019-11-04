@@ -27,6 +27,20 @@
         "icon": "https://cosinagames.github.io/cosinas/icons/poker_offline.png",
         "title": "Poker",
         "reward" :  200
+      },
+      {
+        "id": 4,
+        "url": "com.gg.gin.rummy.cardgame",
+        "icon": "https://cosinagames.github.io/cosinas/icons/gin_rummy.png",
+        "title": "Gin",
+        "reward" :  200
+      },
+      {
+        "id": 5,
+        "url": "gg.roulette.casino.slot.free",
+        "icon": "https://cosinagames.github.io/cosinas/icons/roulette.png",
+        "title": "Roulette",
+        "reward" :  200
       }
    ]
 }
