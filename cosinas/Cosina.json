@@ -1,46 +1,46 @@
 {
    "datas":[
-      {
-        "id": 0,
-        "url": "com.gg.billiards.ballpool",
-        "icon": "https://cosinagames.github.io/cosinas/icons/8ballpool.png",
-        "title": "8 Ball",
-        "reward" :  100
-      },
-      {
-        "id": 1,
-        "url": "gg.Solitaire.FreeCell.FreeCardGames",
-        "icon": "https://cosinagames.github.io/cosinas/icons/freecell_free.png",
-        "title": "Freecell",
-        "reward" :  200
-      },
-      {
-        "id": 2,
-        "url": "com.gg.solitaire.freecell",
-        "icon": "https://cosinagames.github.io/cosinas/icons/freecell_no_ads.png",
-        "title": "Freecell",
-        "reward" :  200
-      },
-      {
-        "id": 3,
-        "url": "gg.casino.poker.pokeroffline",
-        "icon": "https://cosinagames.github.io/cosinas/icons/poker_offline.png",
-        "title": "Poker",
-        "reward" :  200
-      },
-      {
-        "id": 4,
-        "url": "com.gg.gin.rummy.cardgame",
-        "icon": "https://cosinagames.github.io/cosinas/icons/gin_rummy.png",
-        "title": "Gin",
-        "reward" :  200
-      },
-      {
-        "id": 5,
-        "url": "gg.roulette.casino.slot.free",
-        "icon": "https://cosinagames.github.io/cosinas/icons/roulette.png",
-        "title": "Roulette",
-        "reward" :  200
-      }
+      // {
+      //   "id": 0,
+      //   "url": "com.gg.billiards.ballpool",
+      //   "icon": "https://cosinagames.github.io/cosinas/icons/8ballpool.png",
+      //   "title": "8 Ball",
+      //   "reward" :  100
+      // },
+      // {
+      //   "id": 1,
+      //   "url": "gg.Solitaire.FreeCell.FreeCardGames",
+      //   "icon": "https://cosinagames.github.io/cosinas/icons/freecell_free.png",
+      //   "title": "Freecell",
+      //   "reward" :  200
+      // },
+      // {
+      //   "id": 2,
+      //   "url": "com.gg.solitaire.freecell",
+      //   "icon": "https://cosinagames.github.io/cosinas/icons/freecell_no_ads.png",
+      //   "title": "Freecell",
+      //   "reward" :  200
+      // },
+      // {
+      //   "id": 3,
+      //   "url": "gg.casino.poker.pokeroffline",
+      //   "icon": "https://cosinagames.github.io/cosinas/icons/poker_offline.png",
+      //   "title": "Poker",
+      //   "reward" :  200
+      // },
+      // {
+      //   "id": 4,
+      //   "url": "com.gg.gin.rummy.cardgame",
+      //   "icon": "https://cosinagames.github.io/cosinas/icons/gin_rummy.png",
+      //   "title": "Gin",
+      //   "reward" :  200
+      // },
+      // {
+      //   "id": 5,
+      //   "url": "gg.roulette.casino.slot.free",
+      //   "icon": "https://cosinagames.github.io/cosinas/icons/roulette.png",
+      //   "title": "Roulette",
+      //   "reward" :  200
+      // }
    ]
 }
