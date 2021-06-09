@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3830473016
+CRC: 1544120049
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b987dd6d3da5a66710dd0d2a59f4b889
+    Hash: 249318226b26430b29329a388942b14d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6d0fb634c30dd57d7373016881b88965
+    Hash: 7dffd9c5675b176920604ff079796b7b
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -19,5 +19,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/LocalDatas/AssetBundles/ThemeAssetBundles/AssetBundles/15_Philippine(PH)/ThemePHAssetsConfigs.asset
+- Assets/LocalDatas/AssetBundles/ThemeAssetBundles/AssetBundles/15_Philippines(PH)/ThemePHAssetsConfigs.asset
 Dependencies: []
