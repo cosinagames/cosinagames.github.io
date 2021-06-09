@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3477943805
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d643aecab0e0788693f7a8b232d399fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6d0fb634c30dd57d7373016881b88965
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2634daefed01f486c81bec3c2a0ddbeb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/LocalDatas/AssetBundles/ThemeAssetBundles/AssetBundles/5_Egypt(EG)/ThemeEGAssetsConfigs.asset
+Dependencies: []

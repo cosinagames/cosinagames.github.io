@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2126883241
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a59ff450b00445cf8562bb0f625d041
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6d0fb634c30dd57d7373016881b88965
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2634daefed01f486c81bec3c2a0ddbeb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/LocalDatas/AssetBundles/ThemeAssetBundles/AssetBundles/4_Colombia(CO)/ThemeCOAssetsConfigs.asset
+Dependencies: []

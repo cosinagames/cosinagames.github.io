@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3698710639
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c85bf751b115fcf962d0866f19cf4b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6d0fb634c30dd57d7373016881b88965
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2634daefed01f486c81bec3c2a0ddbeb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/LocalDatas/AssetBundles/ThemeAssetBundles/AssetBundles/18_Turkey(TR)/ThemeTRAssetsConfigs.asset
+Dependencies: []

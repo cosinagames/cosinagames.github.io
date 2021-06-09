@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 976800809
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9062cc97e54977f87faacbaec9d579a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6d0fb634c30dd57d7373016881b88965
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2634daefed01f486c81bec3c2a0ddbeb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/LocalDatas/AssetBundles/ThemeAssetBundles/AssetBundles/1_Brazil(BR)/ThemeBRAssetsConfigs.asset
+Dependencies: []

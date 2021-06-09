@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 619192764
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: adaedc6c8b43adeee9394f0ce5b25f94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6d0fb634c30dd57d7373016881b88965
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2634daefed01f486c81bec3c2a0ddbeb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/LocalDatas/AssetBundles/ThemeAssetBundles/AssetBundles/17_Thailand(TH)/ThemeTHAssetsConfigs.asset
+Dependencies: []
