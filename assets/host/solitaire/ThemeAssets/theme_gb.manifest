@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 913311892
+CRC: 2666133375
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 20aef76b2ef067d2dcaa84e02cb36ad7
+    Hash: d0c519d1f5e86a9a86fabc91c92e58af
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6d5d98e62ae073351462c322a2d0c48e
+    Hash: 7dffd9c5675b176920604ff079796b7b
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -17,7 +17,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/LocalDatas/AssetBundles/ThemeAssetBundles/AssetBundles/8_GreatBritain(GB)/ThemeGBAssetsConfigs.asset
 Dependencies: []

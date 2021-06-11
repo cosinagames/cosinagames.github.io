@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2374967888
+CRC: 2372937812
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2813521dc357249bc4470ef5db965ae7
+    Hash: 4db5d4d2f6d78f7ecf7af2d4f11a814c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6d5d98e62ae073351462c322a2d0c48e
+    Hash: 7dffd9c5675b176920604ff079796b7b
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -17,7 +17,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/LocalDatas/AssetBundles/ThemeAssetBundles/AssetBundles/11_Japan(JP)/ThemeJPAssetsConfigs.asset
 Dependencies: []

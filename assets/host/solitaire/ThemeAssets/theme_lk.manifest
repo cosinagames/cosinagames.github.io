@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1627068719
+CRC: 2898964186
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cb32e715473dbaab0e090cd936841287
+    Hash: a1f948fa0d6bed505f7eee3df9fc67d1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6d5d98e62ae073351462c322a2d0c48e
+    Hash: 7dffd9c5675b176920604ff079796b7b
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -17,7 +17,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/LocalDatas/AssetBundles/ThemeAssetBundles/AssetBundles/16_SriLanka(LK)/ThemeLKAssetsConfigs.asset
 Dependencies: []

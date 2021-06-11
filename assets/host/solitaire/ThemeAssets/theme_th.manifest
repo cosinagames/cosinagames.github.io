@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1216477696
+CRC: 2488224633
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 528dcc65257d86c61f7318f8d208ee1c
+    Hash: 34fb78c2a458fbb3372a6ce9ecc5fc25
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6d5d98e62ae073351462c322a2d0c48e
+    Hash: 7dffd9c5675b176920604ff079796b7b
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -17,7 +17,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/LocalDatas/AssetBundles/ThemeAssetBundles/AssetBundles/17_Thailand(TH)/ThemeTHAssetsConfigs.asset
 Dependencies: []

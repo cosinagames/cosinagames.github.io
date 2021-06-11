@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3107976679
+CRC: 3143175008
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 03d3f4492f9a8796a924c79d4a978d9d
+    Hash: c9033479a903bc43af5d0743bf54117b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6d5d98e62ae073351462c322a2d0c48e
+    Hash: 7dffd9c5675b176920604ff079796b7b
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -17,7 +17,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/LocalDatas/AssetBundles/ThemeAssetBundles/AssetBundles/20_Vietnam(VN)/ThemeVNAssetsConfigs.asset
 Dependencies: []

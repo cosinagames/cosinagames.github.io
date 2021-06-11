@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4266528414
+CRC: 1160740412
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: aac5faf65eb5f148e514b7fd366d648e
+    Hash: d0725abe2390ee0b6fa7e5b213b9a365
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6d5d98e62ae073351462c322a2d0c48e
+    Hash: 7dffd9c5675b176920604ff079796b7b
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -17,7 +17,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/LocalDatas/AssetBundles/ThemeAssetBundles/AssetBundles/7_Germany(DE)/ThemeDEAssetsConfigs.asset
 Dependencies: []
