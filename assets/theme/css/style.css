@@ -1108,6 +1108,13 @@ input[type='range'] {
   width: auto;
 }
 
+.outline-blue {
+    text-shadow: -1px -1px 0 #0066ff,  
+                1px -1px 0 #0066ff,
+               -1px  1px 0 #0066ff,
+                1px  1px 0 #0066ff;
+}
+
 .menu .navbar.collapsed:not(.beta-menu) {
   flex-direction: column;
 }
